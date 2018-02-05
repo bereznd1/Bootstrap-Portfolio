@@ -39,6 +39,30 @@ body {
     text-align: center;
 }
 
+
+#headphones {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#ipad {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#laptop {
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+#meeting {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
 .iconhover {
     transition: all .3s ease-in;
     display: inline-block;
