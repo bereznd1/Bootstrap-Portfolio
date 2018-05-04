@@ -49,7 +49,10 @@ body {
 #headshot {
     text-align: center;
 }
-       
+
+
+
+
 
 #hangman {
     margin: 0px auto 20px;
@@ -80,6 +83,10 @@ body {
 }
 
 #bamazon {
+    margin: 0px auto 20px;
+}
+
+#friend-finder {
     margin: 0px auto 20px;
 }
 
